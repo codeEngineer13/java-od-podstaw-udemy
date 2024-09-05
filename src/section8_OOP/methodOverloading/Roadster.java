@@ -17,7 +17,7 @@ public class Roadster {
         this.acceleration = acceleration;
         this.crazyTopSpeed = crazyTopSpeed;
         this.crazyAcceleration = crazyAcceleration;
-        this.crazyMode = true;
+
     }
 
     public float getTopSpeed() {
